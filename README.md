@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on taking names
 - 🌱 I’m currently learning GitHub
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Designing code
+- 🤔 I’m looking for help with king von
 - 💬 Ask me about BMWs
 - 📫 How to reach me: harringtonr23@wpsma.org
 - 😄 Pronouns: its/him
