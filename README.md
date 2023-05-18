@@ -9,5 +9,5 @@
 - 😄 Pronouns: its/him
 - ⚡ Fun fact: I personally know Joe Biden
 
-## [View my Work](https://harringtonr23.github.io/Portfolio/mainpage.html)
+## [View my Work](https://harringtonr23.github.io/portfolio)
 
